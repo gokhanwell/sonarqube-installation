@@ -1,7 +1,7 @@
 # Sonarqube-Installation
 Sonarqube-Installation
 
-        ###Install SonarQube on Ubuntu 20.04 LTS Server
+### Install SonarQube on Ubuntu 20.04 LTS Server
 
 Ubuntu bir server a sonarqube kurulumu ve domain ile yayın yapma anlatılmıştır.
 
