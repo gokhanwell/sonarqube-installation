@@ -13,3 +13,5 @@ Adımlar sırasıyla takip edilerek installation yapılır.
 ![alt text](https://github.com/gokhanwell/sonarqube-installation/blob/main/password-update.png)
 
 ![alt text](https://github.com/gokhanwell/sonarqube-installation/blob/main/https.png)
+
+![alt text](https://github.com/gokhanwell/sonarqube-installation/blob/main/sonar-scanner.png)
